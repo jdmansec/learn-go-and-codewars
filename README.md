@@ -1,1 +1,1 @@
-# golang-basics
+# learn go + codewars
